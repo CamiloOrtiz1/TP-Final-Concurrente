@@ -1,4 +1,5 @@
 import entidades.Visitante;
+import entidades.Encargado;
 
 public class Teatro {
 
